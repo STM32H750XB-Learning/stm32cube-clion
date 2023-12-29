@@ -1,5 +1,7 @@
 # 1 安装软件
 
+Reference: https://club.rt-thread.org/ask/article/59411cc998abc897.html
+
 clion: [CLion: A Cross-Platform IDE for C and C++ by JetBrains](https://www.jetbrains.com/clion/), 免费使用30天, 教育可以免费使用, 或者淘宝
 
 openocd: [Download OpenOCD for Windows (gnutoolchains.com)](https://gnutoolchains.com/arm-eabi/openocd/)
